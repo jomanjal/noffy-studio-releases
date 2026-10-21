@@ -1,15 +1,15 @@
-# 노피 스튜디오 0.1.1 설치·시작 안내
+# 노피 스튜디오 0.1.0 설치·시작 안내
 
 
 Windows 10·11 x64 및 macOS 15 이상(Apple Silicon·Intel)용 설치본입니다. 원고와 노트는 직접 고른 작업 폴더에 저장됩니다.
 
 
-[환경별 설치 파일과 사용 가이드 PDF](https://github.com/jomanjal/noffy-studio-releases/releases/latest)
+[환경별 설치 파일과 사용 가이드 PDF](https://github.com/jomanjal/noffy-studio-releases/releases/tag/v0.1.0)
 
 ## Windows 설치와 등록
 
 
-1. 창작자가 안내한 공식 배포처에서 `NOFFY-Studio-Setup-0.1.1.exe`를 받습니다.
+1. 창작자가 안내한 공식 배포처에서 `NOFFY-Studio-Setup-0.1.0.exe`를 받습니다.
 2. 설치 파일을 실행합니다. 이번 펀딩 버전은 Windows 코드 서명이 없어 ‘알 수 없는 게시자’ 또는 SmartScreen 안내가 나올 수 있습니다. 공식 배포 파일인지 확인한 뒤 ‘추가 정보 → 실행’으로 진행할 수 있습니다. 악성 파일 탐지 경고나 조직의 보안 차단은 별개이며, 백신을 끌 필요는 없습니다.
 3. 인터넷에 연결한 상태에서 앱에 전달받은 짧은 등록키(`NF-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX`)를 입력합니다. 별도 인증 사이트 방문이나 ChatGPT 로그인은 필요 없습니다.
 4. 등록을 마친 PC에서는 정기 재인증 없이 오프라인으로 앱을 사용할 수 있습니다. AI 서비스에 필요한 인터넷·이용권·API 비용은 별개입니다.
